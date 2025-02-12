@@ -666,5 +666,5 @@ markdown
     ```
 
 ---
-**Creat by Fakrul-Hossain
+**Create by Fakrul-Hossain `https://github.com/fakrul-hossain`
 
