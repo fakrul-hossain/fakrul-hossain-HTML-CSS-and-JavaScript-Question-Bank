@@ -1,6 +1,6 @@
-Here is the complete content in **Markdown format** for a `README.md` file, including all 60 questions, answers, and examples:
+Here is the complete HTML, CSS, and JavaScript Question Bank:
 
-```markdown
+markdown
 # Backpack of HTML, CSS, and JS Questions
 
 ---
@@ -11,9 +11,8 @@ Here is the complete content in **Markdown format** for a `README.md` file, incl
 
 1. **What are semantic tags in HTML?**  
    Semantic tags are HTML elements that clearly describe their meaning to both the browser and the developer. Examples include `<header>`, `<footer>`, `<article>`, and `<section>`.
-
    **Example:**  
-   ```html
+   ```
    <header>This is a header</header>
    <main>This is the main content</main>
    <footer>This is a footer</footer>
@@ -667,5 +666,5 @@ Here is the complete content in **Markdown format** for a `README.md` file, incl
     ```
 
 ---
-
+**Creat by Fakrul-Hossain
 
