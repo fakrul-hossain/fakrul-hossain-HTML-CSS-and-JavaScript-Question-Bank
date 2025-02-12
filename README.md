@@ -1,8 +1,6 @@
-Here is the complete HTML, CSS, and JavaScript Question Bank:
 
-markdown
 # Backpack of HTML, CSS, and JS Questions
-
+Here is the complete HTML, CSS, and JavaScript Question Bank:
 ---
 
 ## **Part 1: HTML (20 Questions)**
